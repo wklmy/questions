@@ -1,6 +1,6 @@
 # try/catch/finally的运行情况
 
-问题：以下代码会输出什么？
+问题：以下代码会输出什么？返回值是多少？
 
 ```js
 function tcf() {
